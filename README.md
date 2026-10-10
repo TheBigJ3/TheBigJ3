@@ -4,6 +4,7 @@
 </picture>
 
 <p align="center">
+  <a href="https://jerrym.dev"><img alt="Website" src="https://img.shields.io/badge/Website-jerrym.dev-0F766E?style=flat-square"></a>
   <a href="https://www.linkedin.com/in/gerardo-medina-135ba3372/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gerardo%20Medina-0A66C2?style=flat-square"></a>
   <a href="https://stelta.ai"><img alt="Stelta" src="https://img.shields.io/badge/Stelta-stelta.ai-24292f?style=flat-square"></a>
   <a href="https://www.npmjs.com/package/metrichouse"><img alt="MetricHouse downloads on npm" src="https://img.shields.io/npm/d18m/metrichouse?style=flat-square&logo=npm&label=metrichouse%20downloads&color=CB3837"></a>
